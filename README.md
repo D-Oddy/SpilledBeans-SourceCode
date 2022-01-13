@@ -1,3 +1,3 @@
 # SpilledBeans-Scripts
 
-Here you can find the scrips I wrote when creating my game "Spilled Beans". 
+Here you can find the scripts I wrote when creating my game "Spilled Beans". 
